@@ -1446,7 +1446,7 @@
     (property "Reference" "N1" (id 0) (at 229.235 141.7228 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "Laird_BMI-S-101" (id 1) (at 229.235 144.2597 0)
+    (property "Value" "Laird_BMI-S-101, TE 2118706-2" (id 1) (at 229.235 144.2597 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "RF_Shielding:Laird_Technologies_BMI-S-101_13.66x12.70mm" (id 2) (at 226.695 140.97 0)
@@ -1773,7 +1773,7 @@
       (reference "L1") (unit 1) (value "10nH") (footprint "Inductor_SMD:L_0402_1005Metric")
     )
     (path "/a543a4a0-b8e2-45a4-be48-7207020a5b1f"
-      (reference "N1") (unit 1) (value "Laird_BMI-S-101") (footprint "RF_Shielding:Laird_Technologies_BMI-S-101_13.66x12.70mm")
+      (reference "N1") (unit 1) (value "Laird_BMI-S-101, TE 2118706-2") (footprint "RF_Shielding:Laird_Technologies_BMI-S-101_13.66x12.70mm")
     )
     (path "/31bfc3e7-147b-4531-a0c5-e3a305c1647d"
       (reference "Q1") (unit 1) (value "BF998") (footprint "FETProbe:SOT-143_mod")
